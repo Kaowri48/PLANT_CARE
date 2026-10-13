@@ -1,0 +1,84 @@
+{
+    "plants": [
+        {
+            "plant_id": 1,
+            "plant_name": "Monstera",
+            "species": "Monstera deliciosa",
+            "location": "Living Room",
+            "watering_interval": 7,
+            "last_watered": "2026-10-13",
+            "condition_status": "Healthy"
+        },
+        {
+            "plant_id": 2,
+            "plant_name": "Snake Plant",
+            "species": "Sansevieria trifasciata",
+            "location": "Bedroom",
+            "watering_interval": 14,
+            "last_watered": "2026-10-13",
+            "condition_status": "Healthy"
+        },
+        {
+            "plant_id": 3,
+            "plant_name": "Peace Lily",
+            "species": "Spathiphyllum",
+            "location": "Office",
+            "watering_interval": 5,
+            "last_watered": "2026-10-13",
+            "condition_status": "Good"
+        },
+        {
+            "plant_id": 4,
+            "plant_name": "Fiddle Leaf Fig",
+            "species": "Ficus lyrata",
+            "location": "Balcony",
+            "watering_interval": 10,
+            "last_watered": "2026-10-13",
+            "condition_status": "Healthy"
+        }
+    ],
+    "history": [
+        {
+            "history_id": 1,
+            "plant_id": 3,
+            "action_type": "Watered",
+            "action_date": "2026-10-02"
+        },
+        {
+            "history_id": 2,
+            "plant_id": 1,
+            "action_type": "Watered",
+            "action_date": "2026-10-06"
+        },
+        {
+            "history_id": 3,
+            "plant_id": 4,
+            "action_type": "Watered",
+            "action_date": "2026-10-08"
+        },
+        {
+            "history_id": 4,
+            "plant_id": 1,
+            "action_type": "Watered",
+            "action_date": "2026-10-13"
+        },
+        {
+            "history_id": 5,
+            "plant_id": 2,
+            "action_type": "Watered",
+            "action_date": "2026-10-13"
+        },
+        {
+            "history_id": 6,
+            "plant_id": 3,
+            "action_type": "Watered",
+            "action_date": "2026-10-13"
+        },
+        {
+            "history_id": 7,
+            "plant_id": 4,
+            "action_type": "Watered",
+            "action_date": "2026-10-13"
+        }
+    ]
+}
